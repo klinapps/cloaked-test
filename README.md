@@ -1,0 +1,4 @@
+cloaked-test
+============
+
+test
